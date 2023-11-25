@@ -25,5 +25,12 @@ Project carried out for a college subject, where I had to follow the following s
 - Observer
 
 ## Diagrams
+Exercicie01
+![exercicies1](https://github.com/joaoangnes/ecommerce-java/assets/74597614/9233d31f-8c66-43e9-b8a3-002af2691a01)<br>
 
+Exercicie02
+![exercicies2](https://github.com/joaoangnes/ecommerce-java/assets/74597614/dc6d597f-b818-4930-8751-e8b938e94edc)<br>
+
+Exercicie03
+![exercicies3](https://github.com/joaoangnes/ecommerce-java/assets/74597614/cd4d96a8-e5ef-4df7-b4e2-c69d33eb3a16)<br>
 
